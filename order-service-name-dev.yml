@@ -17,4 +17,4 @@ spring:
       hibernate:
         format_sql: true
 
-env: test
+env: development2
