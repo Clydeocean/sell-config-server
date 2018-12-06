@@ -17,5 +17,5 @@ spring:
       hibernate:
         format_sql: true
 
-env: development2
-env2: env2
+env: development1
+env2: env1
