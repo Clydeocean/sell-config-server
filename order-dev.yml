@@ -17,5 +17,5 @@ spring:
       hibernate:
         format_sql: true
 
-env: tttvvv
-env2: tttttsfsf
+env: env
+env2: env2
