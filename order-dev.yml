@@ -23,5 +23,5 @@ management:
       exposure:
         include: '*'
 
-env: a
-env2: b
+env: a111
+env2: b222
